@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alyona+%F0%9F%91%8B;Software+Engineer;C%2B%2B+%7C+Python+%7C+Backend" alt="Typing header" />
 
   <p>
-    Software engineer from Belgorod<br/>
-    C++, Python, backend, pet-projects
+    Software engineer <br/>
+    Python, C++, backend, pet-projects
   </p>
 
   <p>
@@ -19,8 +19,6 @@
 
 - 💻 Software engineer
 - 🧠 C++ (containers, 3D viewer, matrix) + Python
-- 🚀 Currently building: [FinQuest](https://github.com/fairyofmiracle/FinQuest)
-- 📍 Belgorod, Russia
 
 ---
 
@@ -36,12 +34,10 @@
 
 ---
 
-### Projects
-
-- **[FinQuest](https://github.com/fairyofmiracle/FinQuest)** — pet-project
-- **[CPP_3DViewer](https://github.com/fairyofmiracle/CPP_3DViewer)** — каркасный 3D-viewer для OBJ
-- **[CPP_Containers](https://github.com/fairyofmiracle/CPP_Containers)** — STL-подобные контейнеры на C++17
-- **[CPP_Matrix](https://github.com/fairyofmiracle/CPP_Matrix)** — библиотека матриц
+### Что можно посмотреть
+- **[dochelper-bars](https://github.com/fairyofmiracle/dochelper-bars)** — RAG-агент первой линии, хакатон «Королева Кода» / Барс Груп
+- **[max_yandex_tracker](https://github.com/fairyofmiracle/max_yandex_tracker)** — онпрем-агент: MAX → Яндекс Трекер
+- **[python_tic_tac_toe_backend](https://github.com/fairyofmiracle/python_tic_tac_toe_backend)** — Flask API, JWT, рейтинг
 
 ---
 

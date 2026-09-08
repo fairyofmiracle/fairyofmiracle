@@ -15,13 +15,6 @@
 
 ---
 
-### About me
-
-- 💻 Software engineer
-- 🧠 C++ (containers, 3D viewer, matrix) + Python
-
----
-
 ### Tech stack
 
 <p>

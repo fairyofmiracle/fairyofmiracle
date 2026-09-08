@@ -23,7 +23,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" alt="" />
 
 ### Стек
 
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" alt="JWT" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" alt="" />
 
 <div align="center">
   <p>🌸 <i>python, tea, and a little bit of magic</i> ✨</p>

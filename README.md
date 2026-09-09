@@ -11,8 +11,8 @@
 <div align="center">
 
   <p>
-    Python-разработчица: бэкенд, RAG и агенты,<br/>
-    которые не только болтают, но и делают работу ✨
+    Проектирую backend и AI-агентов в production<br> 
+    API, PostgreSQL, RAG, закрытый контур ✨
   </p>
 
   <p>

@@ -11,8 +11,7 @@
 <div align="center">
 
   <p>
-    Проектирую backend и AI-агентов в production<br> 
-    API, PostgreSQL, RAG, закрытый контур ✨
+    Python backend · LLM-агенты (tool calling, RAG, on-prem) <br> 
   </p>
 
   <p>
